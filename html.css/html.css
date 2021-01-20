@@ -1,0 +1,44 @@
+body {
+  font-family: system-ui;
+  background: #eee;
+  color: white;
+  text-align: center;
+
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+* {
+  text-decoration: none;
+  color: white;
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+}
+
+ul {
+
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  line-height: 100px;
+}
+
+ul li a {
+text-decoration: none;
+  color: black;
+  front-size: 14px;
+  front-family: arial;
+  padding: 0 20px;
+}
